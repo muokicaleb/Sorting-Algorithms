@@ -1,7 +1,8 @@
-The purpose of this project is to cover sorting algorithms in python.
+<p>The purpose of this project is to cover sorting algorithms in python.<br>
 We are covering:
-1.Selection sort
-2.Bubble sort
-3.Merge sort
-4.Inssertion sort
-5.Quick sort
+<ol><li>Selection sort</li>
+<li>Bubble sort</li>
+<li>Merge sort</li>
+<li>Inssertion sort</li>
+<li>Quick sort</li></ol>
+</p>
