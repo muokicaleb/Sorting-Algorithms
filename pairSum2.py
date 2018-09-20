@@ -24,7 +24,6 @@ def calc(sortedList):
             # del sortedList[0]
             start = start + 1
         counter = counter + 1
-        print(counter)
 
     if (sumPair == ans) and (start != stop):
         print("The answer is " + str(sortedList[start]) + " and " + str(sortedList[stop]))
